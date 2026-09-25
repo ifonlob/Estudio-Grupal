@@ -1,6 +1,8 @@
 # Estudio-Hamburguesa
 ## Integrantes
 - Irene Foncubierta Lobatón
+-
+- Alejandro Espinosa Leal
 - Pablo Reyes Leroy
 -
 -
