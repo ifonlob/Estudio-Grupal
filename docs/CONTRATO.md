@@ -9,6 +9,17 @@ No se dejará un bloqueo sin resolver durante más de 8h.
 
 ## Comunicación
 
+Principalmente el medio de comunicación que utilizaremos será Discord, en donde hemos creado un servidor con diferentes canales dedicados cada uno a un propósito específico (#bloqueos, #reuniones, #dudas, #errores, etc...). Asimismo, hemos llegado al acuerdo de que se debería de contestar lo antes posible en un plazo de una hora. De la misma forma, los bloqueos se tienen que informar directamente en el canal dedicado (#bloqueos) en donde se discutirán las posibles soluciones.
+
 ## Decisiones y conflictos
+Los conflictos deben siempre hablarse  y tratarse de manera adecuada y civilizada. Se intentara llegar a una decisión común entre todos que beneficie a todo el grupo por igual en la medida de lo posible. En caso de que algún integrante no aporte al grupo se intentara mediar con el para llegar a un acuerdo. 
 
 ## Calidad
+Documentación y Código IA: Todo código, especialmente el generado por IA y la lógica compleja, debe estar debidamente documentado de forma clara y coherente.
+Garantía de Funcionamiento: El código propuesto debe funcionar correctamente de principio a fin y estar probado para garantizar que no rompe funcionalidades previas.
+Flujo de Pull Requests (PullR):
+Prohibidos los commits directos a main.
+Los PullR deben ser enfocados, estar limpios de código basura y deben ser revisados y aprobados obligatoriamente por Irene.
+Estándares y Limpieza: Es obligatorio usar nombres descriptivos y aplicar herramientas de formateo para mantener un estilo unificado.
+Mantenimiento del Repositorio: Si un cambio requiere nuevas instalaciones o altera la ejecución, el desarrollador debe actualizar el README.md.
+Seguridad: Estrictamente prohibido subir credenciales, contraseñas o API keys al código; todo secreto debe gestionarse mediante variables de entorno (.env).
