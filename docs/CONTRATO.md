@@ -2,9 +2,17 @@
 
 ## Compromisos
 
+Cada uno se comprometerá a dedicar al menos 2h semanales al proyecto fuera de clase. En caso de no llegar al tiempo establecido tendrá que dedicar más horas la semana siguiente.
+En caso de no dedicarle tiempo al proyecto durante dos semanas consecutivas, se informará al profesor.
+Se realizara una reunion obligatoria una vez por semana.
+No se dejará un bloqueo sin resolver durante más de 8h.
+
 ## Comunicación
 
+Principalmente el medio de comunicación que utilizaremos será Discord, en donde hemos creado un servidor con diferentes canales dedicados cada uno a un propósito específico (#bloqueos, #reuniones, #dudas, #errores, etc...). Asimismo, hemos llegado al acuerdo de que se debería de contestar lo antes posible en un plazo de una hora. De la misma forma, los bloqueos se tienen que informar directamente en el canal dedicado (#bloqueos) en donde se discutirán las posibles soluciones.
+
 ## Decisiones y conflictos
+Los conflictos deben siempre hablarse  y tratarse de manera adecuada y civilizada. Se intentara llegar a una decisión común entre todos que beneficie a todo el grupo por igual en la medida de lo posible. En caso de que algún integrante no aporte al grupo se intentara mediar con el para llegar a un acuerdo. 
 
 ## Calidad
 Documentación y Código IA: Todo código, especialmente el generado por IA y la lógica compleja, debe estar debidamente documentado de forma clara y coherente.
